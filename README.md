@@ -1,1 +1,1 @@
-https://dashing-torte-81f9f7.netlify.app/
+Preview of the project [here](https://bastien-segui.github.io/budgetApp/)
